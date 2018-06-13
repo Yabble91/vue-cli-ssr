@@ -1,4 +1,4 @@
-# vue-ssr-cli-pra
+# vue-ssr-cli
 
 > A Vue.js project for ssr
 
